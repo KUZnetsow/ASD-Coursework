@@ -1,0 +1,11 @@
+﻿  TermWork.cpp
+D:\АИСД\Кузнецов\TermWork\TermWork\graph.h(42,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\АИСД\Кузнецов\TermWork\TermWork\graph.h(57,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\АИСД\Кузнецов\TermWork\TermWork\graph.h(87,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\АИСД\Кузнецов\TermWork\TermWork\graph.h(95,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\АИСД\Кузнецов\TermWork\TermWork\graph.h(107,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\АИСД\Кузнецов\TermWork\TermWork\graph.h(127,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\АИСД\Кузнецов\TermWork\TermWork\graph.h(142,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\АИСД\Кузнецов\TermWork\TermWork\graph.h(162,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\АИСД\Кузнецов\TermWork\TermWork\graph.h(180,21): warning C4018: <: несоответствие типов со знаком и без знака
+  TermWork.vcxproj -> D:\АИСД\Кузнецов\TermWork\Debug\TermWork.exe
